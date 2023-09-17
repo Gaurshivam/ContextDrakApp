@@ -1,0 +1,25 @@
+.ConatinerHome{
+    margin: 12px;
+    padding: 20px;
+    display: flex;
+}
+
+.LeftHome{
+    width: 50%;
+}
+
+.RightHome{
+    width: 50%;
+}
+
+.btnSet{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+
+#h2Home{
+   margin: 10px;
+   color: blue;
+   font-size: 70px;
+}
