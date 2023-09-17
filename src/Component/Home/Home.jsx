@@ -18,7 +18,7 @@ const Home = () => {
       </div>
       <div className="RightHome">
         <img src="https://www.urbansciencemep.com/_next/static/images/banner-thumb-ce9763d5a9793e4688afdc229399007a.png"
-        height={680} width={700} alt="HomeImage" />
+        height={600} width={700} alt="HomeImage" />
       </div>
     </div>
   );
